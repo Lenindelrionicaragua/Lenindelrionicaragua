@@ -74,7 +74,7 @@ Since my childhood, music has been my passion, as I have always been fascinated 
 <br>
 <p>
 <a href="https://github.com/Lenindelrionicaragua/Throne-Types/tree/main/GoT-Enneatypes" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p>Thrones Types is a web application that lets you delve into the enneatypes of your beloved Game of Thrones characters. Explore the psychological traits and personalities of characters from the world of Westeros.
