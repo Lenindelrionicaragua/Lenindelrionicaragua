@@ -4,11 +4,6 @@
 
 ![GithubBanner](https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/fe8b236b-9f90-484c-b84f-d9c41f157629)
 
- 
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/channel/UC2-4csTBTnyhF71dPob8MHw)
-
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
