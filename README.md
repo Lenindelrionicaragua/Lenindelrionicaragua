@@ -33,6 +33,24 @@ Since my childhood, music has been my passion, as I have always been fascinated 
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">Q & A</h3>
+<div align="center">
+	
+<a href="https://github.com/Lenindelrionicaragua/Q-And-A" target="_blank"><img src="https://imgur.com/RSf0jY1.jpg" width="400" alt="Q & A"></a>
+<p>
+<a href="https://github.com/Lenindelrionicaragua/Q-And-A" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>A Forum for the Hack Your Future Community, a Space for Asking Questions and Sharing Knowledge. Also showcases a collaborative Full Stack project involving front end and back end development, completed by 4 developers, 1 project owner, and 1 quality manager.</p>
+</div>
+</td>
+
+<table>
+
+<table>
+<tr>
+<td width="50%">
 <h3 align="center">Hooked Tetris</h3>
 <div align="center">
 	
@@ -44,4 +62,24 @@ Since my childhood, music has been my passion, as I have always been fascinated 
 </p>
 <p>Hooked Tetris is a single-page application aimed at creating an interactive and educational game by combining the classic Tetris with React hooks. The game features a main presentation screen where the player can create their avatar using the DiceBear HTTP API. Upon completing the avatar creation, the player is redirected to the game screen to play Tetris. Eliminating lines in the Tetris game reveals tips and information about various React hooks.</p>
 </div>
+</td>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Thrones Types</h3>
+<div align="center">   
+                                    
+<a href="https://github.com/Lenindelrionicaragua/Throne-Types" target="_blank"><img src="https://imgur.com/eF6Q4wp.jpg" width="400" alt="Thrones Types"></a>
+<br>
+<p>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>Thrones Types is a web application that lets you delve into the enneatypes of your beloved Game of Thrones characters. Explore the psychological traits and personalities of characters from the world of Westeros.
+</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
