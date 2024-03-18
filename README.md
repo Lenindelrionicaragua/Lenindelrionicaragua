@@ -35,7 +35,8 @@ Since my childhood, music has been my passion, as I have always been fascinated 
 <td width="50%">
 <h3 align="center">Curso Android Básico</h3>
 <div align="center">
-<a href="https://github.com/Lenindelrionicaragua/Hooked-Tetris_React-Project" target="_blank"><img src="https://imgur.com/a/HL2MZ32" width="400" alt="Hooked Tetris"></a>
+	
+<a href="https://github.com/Lenindelrionicaragua/Hooked-Tetris_React-Project" target="_blank"><img src="https://imgu.com/a/HL2MZ32.jpg" width="400" alt="Hooked Tetris"></a>
 <p>
 <a href="https://github.com/Lenindelrionicaragua/Hooked-Tetris_React-Project" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
