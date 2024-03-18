@@ -46,7 +46,7 @@ Since my childhood, music has been my passion, as I have always been fascinated 
 </div>
 </td>
 
-<table>
+</table>   
 
 <table>
 <tr>
@@ -63,7 +63,7 @@ Since my childhood, music has been my passion, as I have always been fascinated 
 <p>Hooked Tetris is a single-page application aimed at creating an interactive and educational game by combining the classic Tetris with React hooks. The game features a main presentation screen where the player can create their avatar using the DiceBear HTTP API. Upon completing the avatar creation, the player is redirected to the game screen to play Tetris. Eliminating lines in the Tetris game reveals tips and information about various React hooks.</p>
 </div>
 </td>
-
+</table>   
 <table>
 <tr>
 <td width="50%">
@@ -88,7 +88,7 @@ Since my childhood, music has been my passion, as I have always been fascinated 
 
 <p align="center">
 <a href="https://github.com/Lenindelrionicaragua">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lenindelrionicaragua&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lenindelrionicaragua&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lenindelrionicaragua&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lenindelrionicaragua&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
