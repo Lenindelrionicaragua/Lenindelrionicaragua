@@ -36,7 +36,7 @@ Since my childhood, music has been my passion, as I have always been fascinated 
 <h3 align="center">Hooked Tetris</h3>
 <div align="center">
 	
-<a href="https://github.com/Lenindelrionicaragua/Hooked-Tetris_React-Project" target="_blank"><img src="[https://imgu.com/a/HL2MZ32.jpg](https://i.imgur.com/YxuYnqj.png)" width="400" alt="Hooked Tetris"></a>
+<a href="https://github.com/Lenindelrionicaragua/Hooked-Tetris_React-Project" target="_blank"><img src="https://i.imgur.com/YxuYnqj.png" width="400" alt="Hooked Tetris"></a>
 <p>
 <a href="https://github.com/Lenindelrionicaragua/Hooked-Tetris_React-Project" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
