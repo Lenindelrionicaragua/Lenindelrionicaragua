@@ -39,7 +39,7 @@ Since my childhood, music has been my passion, as I have always been fascinated 
 <a href="https://github.com/Lenindelrionicaragua/Q-And-A" target="_blank"><img src="https://imgur.com/RSf0jY1.jpg" width="400" alt="Q & A"></a>
 <p>
 <a href="https://github.com/Lenindelrionicaragua/Q-And-A" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>A Forum for the Hack Your Future Community, a Space for Asking Questions and Sharing Knowledge. Also showcases a collaborative Full Stack project involving front end and back end development, completed by 4 developers, 1 project owner, and 1 quality manager.</p>
@@ -57,7 +57,7 @@ Since my childhood, music has been my passion, as I have always been fascinated 
 <a href="https://github.com/Lenindelrionicaragua/Hooked-Tetris_React-Project" target="_blank"><img src="https://i.imgur.com/YxuYnqj.png" width="400" alt="Hooked Tetris"></a>
 <p>
 <a href="https://github.com/Lenindelrionicaragua/Hooked-Tetris_React-Project" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Hooked Tetris is a single-page application aimed at creating an interactive and educational game by combining the classic Tetris with React hooks. The game features a main presentation screen where the player can create their avatar using the DiceBear HTTP API. Upon completing the avatar creation, the player is redirected to the game screen to play Tetris. Eliminating lines in the Tetris game reveals tips and information about various React hooks.</p>
@@ -74,7 +74,7 @@ Since my childhood, music has been my passion, as I have always been fascinated 
 <br>
 <p>
 <a href="https://github.com/Lenindelrionicaragua/Throne-Types/tree/main/GoT-Enneatypes" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p>Thrones Types is a web application that lets you delve into the enneatypes of your beloved Game of Thrones characters. Explore the psychological traits and personalities of characters from the world of Westeros.
