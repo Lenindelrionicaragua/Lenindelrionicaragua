@@ -11,6 +11,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
+- A passionate Self-taught Front-end developer
+- Currently learning Web Development by Self
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://app.enhancv.com/share/81f37b4f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
