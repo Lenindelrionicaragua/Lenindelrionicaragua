@@ -30,10 +30,8 @@ Since my childhood, music has been my passion, as I have always been fascinated 
 
 ## Proyects
 
-<!---![THRONE TYPES (3)](https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/e6e21193-7bcd-46b5-826c-6d6175d4d767)
+[THRONE TYPES (3)](https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/e6e21193-7bcd-46b5-826c-6d6175d4d767)
 <img src="https://img.shields.io/badge/Repository-ff9?style=for-the-badge&logo=github&logoColor=black">
 
-Lendelrio/Lendelrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
