@@ -4,11 +4,11 @@
 
 ![GithubBanner](https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/fe8b236b-9f90-484c-b84f-d9c41f157629)
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<p align="center">
+<p align="left">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
+ <div align="left"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/len-del-rio-31a2882ab/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Lenindelrionicaragua">
