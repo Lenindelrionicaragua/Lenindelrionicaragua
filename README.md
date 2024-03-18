@@ -4,6 +4,8 @@
 
 ![GithubBanner](https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/fe8b236b-9f90-484c-b84f-d9c41f157629)
 
+Since my childhood, music has been my passion, as I have always been fascinated by its communicative power. This led me to initially study music and later pursue a degree in Social Communication at university. I have always believed that one of the most significant goals in life is the connection between the individual and the surrounding world, both for personal growth and for contributing to the future of society. This is why I enjoy web development so much; it has taken the interconnection of human beings to an unexpected level, and I am thrilled to be a part of this new stage of our civilization.
+
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://app.enhancv.com/share/81f37b4f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
