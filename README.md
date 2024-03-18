@@ -30,8 +30,17 @@ Since my childhood, music has been my passion, as I have always been fascinated 
 
 ## Proyects
 
-[THRONE TYPES (3)](https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/e6e21193-7bcd-46b5-826c-6d6175d4d767)
-<img src="https://img.shields.io/badge/Repository-ff9?style=for-the-badge&logo=github&logoColor=black">
-
-
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Curso Android Básico</h3>
+<div align="center">
+<a href="https://github.com/Lenindelrionicaragua/Hooked-Tetris_React-Project" target="_blank"><img src="https://imgur.com/a/HL2MZ32" width="400" alt="Hooked Tetris"></a>
+<p>
+<a href="https://github.com/Lenindelrionicaragua/Hooked-Tetris_React-Project" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Hooked Tetris is a single-page application aimed at creating an interactive and educational game by combining the classic Tetris with React hooks. The game features a main presentation screen where the player can create their avatar using the DiceBear HTTP API. Upon completing the avatar creation, the player is redirected to the game screen to play Tetris. Eliminating lines in the Tetris game reveals tips and information about various React hooks.</p>
+</div>
 
