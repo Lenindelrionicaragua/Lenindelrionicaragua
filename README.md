@@ -73,7 +73,7 @@ Since my childhood, music has been my passion, as I have always been fascinated 
 <a href="https://github.com/Lenindelrionicaragua/Throne-Types" target="_blank"><img src="https://imgur.com/eF6Q4wp.jpg" width="400" alt="Thrones Types"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/Lenindelrionicaragua/Throne-Types/tree/main/GoT-Enneatypes" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
