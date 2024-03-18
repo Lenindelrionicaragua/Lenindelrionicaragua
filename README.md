@@ -28,7 +28,7 @@ Since my childhood, music has been my passion, as I have always been fascinated 
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 </p>
 
-## Proyects
+## Projects
 
 <table>
 <tr>
