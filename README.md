@@ -1,8 +1,6 @@
  Hi, I’m Len Del Rio 👋
 
-![pinguino largo](https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/58c8b26a-c087-4ec5-9e19-bc33c65d3e3b)
-
-
+![GithubBanner](https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/c8efcef4-510c-4a65-bd30-ed29b7690689)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
