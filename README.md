@@ -9,15 +9,6 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/channel/UC2-4csTBTnyhF71dPob8MHw)
 
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
-
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://app.enhancv.com/share/81f37b4f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
-- 🌱 I’m currently Working on Mobile App(React-Native)
-- 🤝 I’m available for freelancing.
-📫 How to reach me **lendelrionl@gmail.com**
-
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
@@ -32,6 +23,15 @@
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC2-4csTBTnyhF71dPob8MHw">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 </p>
+
+- A passionate Self-taught Front-end developer
+- Currently learning Web Development by Self
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://app.enhancv.com/share/81f37b4f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🤝 I’m available for freelancing.
+📫 How to reach me **lendelrionl@gmail.com**
+
+
 
 
 - 👀 I’m interested in ...
