@@ -4,7 +4,7 @@
 
 ![GithubBanner](https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/fe8b236b-9f90-484c-b84f-d9c41f157629)
 
-Since childhood, music has been my passion, as I've always been captivated by its communicative power. Initially studying music and later pursuing a degree in Social Communication at university, I've believed in the profound importance of connecting individuals with the world around them, both for personal growth and contributing to society's future. Web development has amplified this interconnection to remarkable levels, and I'm excited to be part of this new era in our civilization.
+Since childhood, music has been my passion. I have always been captivated by its communicative power. Initially, I studied music and later pursued a degree in Social Communication at university. I believe profoundly in the importance of connecting individuals with the world around them, both for personal growth and for contributing to society's future. Web development has amplified this interconnection to remarkable levels, and I'm excited to be a part of this new era in our civilization.
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
