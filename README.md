@@ -6,9 +6,9 @@
 
 Since childhood, music has been my passion. I have always been captivated by its communicative power. Initially, I studied music and later pursued a degree in Social Communication at university. I believe profoundly in the importance of connecting individuals with the world around them, both for personal growth and for contributing to society's future. Web development has amplified this interconnection to remarkable levels, and I'm excited to be a part of this new era in our civilization.
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://app.enhancv.com/share/81f37b4f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- A passionate Front-end developer
+- Currently learning Phyton
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://app.enhancv.com/share/48a45dff/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 - 🌱 I’m currently Working on Mobile App(React-Native)
 - 🤝 I’m available for freelancing.
 📫 How to reach me **lendelrionl@gmail.com**
@@ -22,10 +22,6 @@ Since childhood, music has been my passion. I have always been captivated by its
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Lenindelrionicaragua">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/lenin_del_rio/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC2-4csTBTnyhF71dPob8MHw">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 </p>
 
 ## Projects
