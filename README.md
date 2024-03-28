@@ -15,10 +15,10 @@ Since childhood, music has been my passion. I have always been captivated by its
 
 Currently, I am interested in studying and improving my skills in the following technologies:
 
-Python
-React Native
-Canvas
-Flask
+- Python
+- React Native
+- Canvas
+- Flask
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
