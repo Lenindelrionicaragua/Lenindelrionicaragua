@@ -104,7 +104,9 @@ Currently, I am interested in studying and improving my skills in the following 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
  <img src="https://github.com/expo/logos/blob/main/svg/snack.svg" title="Expo" alt="Expo" width="40" height="40"/>&nbsp;
- <img src="https://github.com/ds300/jetzt/blob/master/img/logo.svg" title="Jets width="40" height="40"/>&nbsp;
+ [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg?logo=jest)](https://github.com/jestjs/jest)
+[![jest tested](https://img.shields.io/badge/Jest-tested-eee.svg?logo=jest&labelColor=99424f)](https://github.com/jestjs/jest)
+[![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/jestjs/jest)
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
