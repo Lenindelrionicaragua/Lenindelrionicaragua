@@ -116,8 +116,9 @@ Currently, I am interested in studying and improving my skills in the following 
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">&nbsp;
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">&nbsp;
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/6ed5e78c-518a-4a98-afdd-4b887f5ddca0" alt="Redux" width="40" height="40">
+<img src="https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/f9894c92-be04-4eb2-92bf-832763c35513" alt="Cypress" width="40" height="40">
+
 
 
 
