@@ -37,11 +37,11 @@ Currently, I am interested in studying and improving my skills in the following 
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 <h3 align="center">Zen Timer App</h3>
 <div align="center">   
          
-<a href="https://github.com/Lenindelrionicaragua/ZenTimerAppFront" target="_blank"><img src="https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/077d9ff1-ae66-4ab6-95eb-a1a4ce18bd45" width="400" alt="Zen Timer App"></a>
+<a href="https://github.com/Lenindelrionicaragua/ZenTimerAppFront" target="_blank"><img src="https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/077d9ff1-ae66-4ab6-95eb-a1a4ce18bd45" width="800" alt="Zen Timer App"></a>
 <br>
 <p>
 <a href="https://github.com/Lenindelrionicaragua/ZenTimerAppFront" target="_blank">
