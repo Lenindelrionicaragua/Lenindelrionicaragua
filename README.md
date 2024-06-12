@@ -37,7 +37,7 @@ Currently, I am interested in studying and improving my skills in the following 
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 <h3 align="center">Zen Timer App</h3>
 <div align="center">   
          
@@ -48,7 +48,7 @@ Currently, I am interested in studying and improving my skills in the following 
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Thrones Types is a web application that lets you delve into the enneatypes of your beloved Game of Thrones characters. Explore the psychological traits and personalities of characters from the world of Westeros.
+</p>A React Native app for effective time management. Features customizable intervals, voice control, Google authentication, and detailed statistics.
 </p>
 </div>                                                             
 </table>  
