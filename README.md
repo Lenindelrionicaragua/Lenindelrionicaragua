@@ -48,7 +48,7 @@ Currently, I am interested in studying and improving my skills in the following 
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>A React Native app for effective time management. Features customizable intervals, voice control, Google authentication, and detailed statistics.
+</p>A React Native app for time management, featuring customizable intervals, voice control, Google authentication, and detailed statistics, powered by a connected database.
 </p>
 </div>                                                             
 </table>  
