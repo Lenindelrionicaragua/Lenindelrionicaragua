@@ -38,13 +38,13 @@ Currently, I am interested in studying and improving my skills in the following 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Thrones Types</h3>
+<h3 align="center">Zen Timer App</h3>
 <div align="center">   
          
-<a href="https://github.com/Lenindelrionicaragua/Throne-Types" target="_blank"><img src="https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/077d9ff1-ae66-4ab6-95eb-a1a4ce18bd45" width="400" alt="Thrones Types"></a>
+<a href="https://github.com/Lenindelrionicaragua/ZenTimerAppFront" target="_blank"><img src="https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/077d9ff1-ae66-4ab6-95eb-a1a4ce18bd45" width="400" alt="Zen Timer App"></a>
 <br>
 <p>
-<a href="https://github.com/Lenindelrionicaragua/Throne-Types/tree/main/GoT-Enneatypes" target="_blank">
+<a href="https://github.com/Lenindelrionicaragua/ZenTimerAppFront" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
