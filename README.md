@@ -38,6 +38,24 @@ Currently, I am interested in studying and improving my skills in the following 
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">Thrones Types</h3>
+<div align="center">   
+                                    
+<a href="https://github.com/Lenindelrionicaragua/Throne-Types" target="_blank"><img src="https://imgur.com/5dDQLaY" width="400" alt="Thrones Types"></a>
+<br>
+<p>
+<a href="https://github.com/Lenindelrionicaragua/Throne-Types/tree/main/GoT-Enneatypes" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>Thrones Types is a web application that lets you delve into the enneatypes of your beloved Game of Thrones characters. Explore the psychological traits and personalities of characters from the world of Westeros.
+</p>
+</div>                                                             
+</table>  
+
+<table>
+<tr>
+<td width="50%">
 <h3 align="center">Q & A</h3>
 <div align="center">
 	
@@ -69,23 +87,7 @@ Currently, I am interested in studying and improving my skills in the following 
 </div>
 </td>
 </table>   
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Thrones Types</h3>
-<div align="center">   
-                                    
-<a href="https://github.com/Lenindelrionicaragua/Throne-Types" target="_blank"><img src="https://imgur.com/eF6Q4wp.jpg" width="400" alt="Thrones Types"></a>
-<br>
-<p>
-<a href="https://github.com/Lenindelrionicaragua/Throne-Types/tree/main/GoT-Enneatypes" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-</p>Thrones Types is a web application that lets you delve into the enneatypes of your beloved Game of Thrones characters. Explore the psychological traits and personalities of characters from the world of Westeros.
-</p>
-</div>                                                             
-</table>                                                                                 
+                                                                               
 </div>
 <br>
 
