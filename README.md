@@ -40,7 +40,6 @@ Currently, I am interested in studying and improving my skills in the following 
 <td width="50%">
 <h3 align="center">Thrones Types</h3>
 <div align="center">   
-                           ![5dDQLaY - Imgur](https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/077d9ff1-ae66-4ab6-95eb-a1a4ce18bd45)
          
 <a href="https://github.com/Lenindelrionicaragua/Throne-Types" target="_blank"><img src="https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/077d9ff1-ae66-4ab6-95eb-a1a4ce18bd45" width="400" alt="Thrones Types"></a>
 <br>
