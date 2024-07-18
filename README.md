@@ -39,9 +39,10 @@ Currently, I am interested in studying and improving my skills in the following 
 <tr>
 <td width="50%">
 <h3 align="center">Zen Timer App</h3>
-<div align="center">   
+<div align="center">   ![1](https://github.com/user-attachments/assets/8e313129-fb5b-4c3f-8048-dbf32b443a34)
+
          
-<a href="https://github.com/Lenindelrionicaragua/ZenTimerAppFront" target="_blank"><img src="https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/077d9ff1-ae66-4ab6-95eb-a1a4ce18bd45" width="800" alt="Zen Timer App"></a>
+<a href="https://github.com/Lenindelrionicaragua/ZenTimerAppFront" target="_blank"><img src="https://github.com/user-attachments/assets/8e313129-fb5b-4c3f-8048-dbf32b443a34" width="800" alt="Zen Timer App"></a>
 <br>
 <p>
 <a href="https://github.com/Lenindelrionicaragua/ZenTimerAppFront" target="_blank">
