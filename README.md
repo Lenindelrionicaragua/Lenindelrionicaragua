@@ -38,9 +38,8 @@ Currently, I am interested in studying and improving my skills in the following 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Zen Timer App</h3>
+<h3 align="center">Habit Tracke</h3>
 <div align="center">   
-![1]()
          
 <a href="https://github.com/Lenindelrionicaragua/ZenTimerAppFront" target="_blank"><img src="https://github.com/user-attachments/assets/c5ec153b-83c1-4ed2-985e-3855378b1197" width="800" alt="Zen Timer App"></a>
 <br>
