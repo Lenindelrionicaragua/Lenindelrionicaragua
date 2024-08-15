@@ -11,7 +11,7 @@ Since childhood, music has been my passion. I have always been captivated by its
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://app.enhancv.com/share/48a45dff/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 - 🌱 I’m currently Working on Mobile App(React-Native)
 - 🤝 I’m available for freelancing.
-📫 How to reach me **lendelrionl@gmail.com**
+📫 How to reach me **lendelrionicaragua@gmail.com**
 
 Currently, I am interested in studying and improving my skills in the following technologies:
 
