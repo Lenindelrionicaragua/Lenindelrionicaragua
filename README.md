@@ -4,25 +4,25 @@
 
 ![GithubBanner](https://github.com/Lenindelrionicaragua/Lenindelrionicaragua/assets/142052112/fe8b236b-9f90-484c-b84f-d9c41f157629)
 
-Since childhood, music has been my passion, inspiring me to explore its communicative power. After studying music and earning a degree in Social Communication, I realized the importance of connecting people with the world around them for personal growth and societal advancement. This realization led me to web development, where I can amplify those connections even further.
+Since childhood, music has been my passion, inspiring me to explore its communicative power. After studying music and earning a degree in Social Communication, I recognized the significance of connecting people with their surroundings for personal growth and societal advancement. This realization led me to web development, where I can amplify those connections even further.
 
-🌟 Currently a passionate Full Stack Developer focused on building innovative applications.
+🌟 I am a passionate Full Stack Developer dedicated to building innovative applications.
 
-🛠️ Technologies I'm proficient in:
+🛠️ Technologies I’m Proficient In:
 
 Front-end: React Native, Redux, Jest, Cypress
 Back-end: Node.js, MySQL, MongoDB
-📚 Currently learning:
+📚 Currently Learning:
 
 Python
 Vue.js
-💼 I'm open to internship or job opportunities. You can view my resume here.
+💼 Open to Internship or Job Opportunities. You can view my resume here.
 
-📱 Currently working on: Mobile App development with React Native.
+📱 Currently Working On: Mobile App development with React Native.
 
-🤝 Available for freelancing opportunities.
+🤝 Available for Freelancing Opportunities.
 
-📫 How to reach me: lendelrionl@gmail.com
+📫 How to Reach Me: lendelrionl@gmail.com
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
