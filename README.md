@@ -50,7 +50,7 @@ Vue.js
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>A React Native app for time management, featuring customizable intervals, voice control, Google authentication, and detailed statistics, powered by a connected database.
+</p>Habit Tracker: A React Native app for managing time and building habits. Track activities, log daily time, and view detailed statistics. With Google authentication, the app helps users stay motivated and achieve their goals.
 </p>
 </div>                                                             
 </table>  
