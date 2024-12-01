@@ -14,6 +14,7 @@ Front-end: React Native, Redux, Jest, Cypress
 Back-end: Node.js, MySQL, MongoDB
 📚 Currently Learning:
 
+Java
 Python
 Vue.js
 💼 Open to Internship or Job Opportunities. You can view my resume here.
