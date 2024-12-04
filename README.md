@@ -10,7 +10,7 @@ Since childhood, music has been my passion, inspiring me to explore its communic
 
 🛠️ Technologies I’m Proficient In:
 
-Front-end: React Native, Redux, Jest, Cypress  
+Front-end: React, React Native, Redux, Jest, Cypress  
 Back-end: Node.js, MySQL, MongoDB  
 
 📚 Currently Learning:
@@ -26,7 +26,7 @@ Vue.js
 
 🤝 Available for Freelancing Opportunities.
 
-📫 How to Reach Me: lendelrionl@gmail.com
+📫 How to Reach Me: lenindelrionicaragua@gmail.com
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
