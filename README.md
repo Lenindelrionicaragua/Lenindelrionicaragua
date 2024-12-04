@@ -59,24 +59,6 @@ Vue.js
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Q & A</h3>
-<div align="center">
-	
-<a href="https://github.com/Lenindelrionicaragua/Q-And-A" target="_blank"><img src="https://imgur.com/RSf0jY1.jpg" width="400" alt="Q & A"></a>
-<p>
-<a href="https://github.com/Lenindelrionicaragua/Q-And-A" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>A Forum for the Hack Your Future Community, a Space for Asking Questions and Sharing Knowledge. Also showcases a collaborative Full Stack project involving front end and back end development, completed by 4 developers, 1 project owner, and 1 quality manager.</p>
-</div>
-</td>
-
-</table>   
-
-<table>
-<tr>
-<td width="50%">
 <h3 align="center">Hooked Tetris</h3>
 <div align="center">
 	
