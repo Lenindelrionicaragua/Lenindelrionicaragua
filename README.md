@@ -20,8 +20,7 @@ Python
 Vue.js  
 
 
-💼 Open to Internship or Job Opportunities. You can view my resume here: https://app.enhancv.com/share/48a45dff/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
-
+💼 Open to Internship or Job Opportunities. You can view my resume [here](https://app.enhancv.com/share/48a45dff/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic).
 
 📱 Currently Working On: Mobile App development with React Native.
 
