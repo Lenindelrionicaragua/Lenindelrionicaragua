@@ -10,13 +10,16 @@ Since childhood, music has been my passion, inspiring me to explore its communic
 
 🛠️ Technologies I’m Proficient In:
 
-Front-end: React Native, Redux, Jest, Cypress
-Back-end: Node.js, MySQL, MongoDB
+Front-end: React Native, Redux, Jest, Cypress  
+Back-end: Node.js, MySQL, MongoDB  
+
 📚 Currently Learning:
 
-Java
-Python
-Vue.js
+Java  
+Python  
+Vue.js  
+
+
 💼 Open to Internship or Job Opportunities. You can view my resume here.
 
 📱 Currently Working On: Mobile App development with React Native.
