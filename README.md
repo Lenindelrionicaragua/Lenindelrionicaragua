@@ -44,7 +44,7 @@ Vue.js
 <h3 align="center">Habit Tracker</h3>
 <div align="center">   
 
-<a href="https://github.com/Lenindelrionicaragua/ZenTimerAppFront" target="_blank"><img src="https://github.com/user-attachments/assets/f01ea990-0952-40cc-991d-8b6d4395d7cd" width="800" alt="Zen Timer App"></a>
+<a href="https://github.com/Lenindelrionicaragua/ZenTimerAppFront" target="_blank"><img src="https://github.com/user-attachments/assets/726da1d7-8468-4cdd-a1c6-15379f8b0743" width="800" alt="Zen Timer App"></a>
 <br>
 <p>
 <a href="https://github.com/Lenindelrionicaragua/ZenTimerAppFront" target="_blank">
