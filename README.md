@@ -43,8 +43,8 @@ Vue.js
 <td width="50%">
 <h3 align="center">Habit Tracker</h3>
 <div align="center">   
-   
-<a href="https://github.com/Lenindelrionicaragua/ZenTimerAppFront" target="_blank"><img src="https://github.com/user-attachments/assets/3cd93e71-abe8-4e2d-8349-0f8b75b34257" width="800" alt="Zen Timer App"></a>
+
+<a href="https://github.com/Lenindelrionicaragua/ZenTimerAppFront" target="_blank"><img src="https://github.com/user-attachments/assets/db9c7ec4-386d-4c4c-84fa-4026dd87a688" width="800" alt="Zen Timer App"></a>
 <br>
 <p>
 <a href="https://github.com/Lenindelrionicaragua/ZenTimerAppFront" target="_blank">
