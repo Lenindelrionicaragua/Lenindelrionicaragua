@@ -48,6 +48,7 @@ Vue.js
 <div align="center">   
 
 <a href="https://github.com/Lenindelrionicaragua/ZenTimerAppFront" target="_blank">
+
 <img src="https://github.com/user-attachments/assets/ce6c7dee-0cea-457e-a18f-54a92a79b368" width="800" alt="Zen Timer App 2"></a>
 <img src="https://github.com/user-attachments/assets/d891ee7b-d5c8-488f-aa0b-c6cb43748925" width="800" alt="Zen Timer App 1">
 
@@ -59,6 +60,7 @@ Vue.js
 </p>
 </p>Habit Tracker: A React Native app for managing time and building habits. Track activities, log daily time, and view detailed statistics. With Google authentication, the app helps users stay motivated and achieve their goals.
 </p>
+</p>https://habit-tracker-app-front.netlify.app</p>
 </div>                                                             
 </table>  
 
