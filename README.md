@@ -60,6 +60,7 @@ Vue.js
 </p>
 </p>Habit Tracker: A React Native app for managing time and building habits. Track activities, log daily time, and view detailed statistics. With Google authentication, the app helps users stay motivated and achieve their goals.
 </p>
+</p>Web version of the app:</p>
 </p>https://habit-tracker-app-front.netlify.app</p>
 </div>                                                             
 </table>  
