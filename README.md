@@ -74,7 +74,7 @@ Vue.js
 <a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank"><img src="https://i.imgur.com/YxuYnqj.png" width="400" alt="Hooked Tetris"></a>
 <p>
 <a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank">
-<img src="https://github.com/user-attachments/assets/dad7489d-7701-4237-a17d-a2e0579eed0f">
+<img src="[https://github.com/user-attachments/assets/dad7489d-7701-4237-a17d-a2e0579eed0f](https://github.com/Lenindelrionicaragua/donna-vino-corporate-website)">
 </a>
 </p>
 <p>At Donna Vino, we aim to redefine how people explore and enjoy wine. Through this platform, users will be able to:
