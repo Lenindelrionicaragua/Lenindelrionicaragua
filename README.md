@@ -68,6 +68,34 @@ Vue.js
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">Donna Vino Corporate web</h3>
+<div align="center">
+
+<a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank"><img src="https://i.imgur.com/YxuYnqj.png" width="400" alt="Hooked Tetris"></a>
+<p>
+<a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black](https://github.com/user-attachments/assets/de255a5b-13fc-4624-8fb7-bc1088d89080">
+</a>
+</p>
+<p>At Donna Vino, we aim to redefine how people explore and enjoy wine. Through this platform, users will be able to:
+
+Purchase hand-picked premium wines through a seamless eCommerce experience.
+Participate in curated wine tastings and discover new favorites.
+This repository contains the codebase for the website, including:
+
+Frontend design and development
+Integrations with Heroku for deployment
+</p>
+</div>
+</td>
+</table>   
+                                                                               
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
 <h3 align="center">Hooked Tetris</h3>
 <div align="center">
 	
