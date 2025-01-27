@@ -71,7 +71,8 @@ Vue.js
 <h3 align="center">Donna Vino Corporate web</h3>
 <div align="center">
 
-<a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank"><img src="[https://i.imgur.com/YxuYnqj.png](https://github.com/user-attachments/assets/26a30835-a5ee-47ae-b1c0-06e467e9fc20)" width="400" alt="Hooked Tetris"></a>
+<a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target=""><img src="" width="400" alt="Hooked Tetris"></a>
+<img src="[https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black](https://i.imgur.com/YxuYnqj.png](https://github.com/user-attachments/assets/26a30835-a5ee-47ae-b1c0-06e467e9fc20))">
 <p>
 <a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank">
 <img src="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website">
