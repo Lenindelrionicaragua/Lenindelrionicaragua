@@ -45,7 +45,7 @@ Vue.js
   <tr>
     <td colspan="4" align="center">
       <h3>Donna Vino Web Corporate</h3>
-      <p>I was responsible for leading the team to create the base repository, overseeing the rule sets of the repository, managing deployments, and deploying the online version.</p>
+      <p>Donna Vino.dk is the corporate website for an e-commerce platform focused on wine sales and tastings. In this project, I was the Lead Developer, responsible for creating both the front-end and back-end of the project. I closely collaborated with the design team for graphic design and product design to ensure seamless integration and user experience.</p>
 	<br>
 	    www.donnavino.dk
     </td>
