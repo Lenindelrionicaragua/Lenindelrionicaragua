@@ -40,11 +40,28 @@ Vue.js
 </p>
 
 ## Projects
-![lg-1742816464538](https://github.com/user-attachments/assets/6a70de58-e859-4f1f-98c5-d90b2e489bf4)
-![xl-1742816502315](https://github.com/user-attachments/assets/99769df0-a91c-482a-9069-e8e48de2ed7b)
-![lg-1742816457080](https://github.com/user-attachments/assets/1cdf76a2-2cd4-4ab4-87da-ddb384a89671)
-![lg-1742816449682](https://github.com/user-attachments/assets/d919b945-ff84-4978-a2cd-5597274a4d0f)
-![lg-1742816436969](https://github.com/user-attachments/assets/8df9e7b1-aae1-453e-8a27-f549910567e0)
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/6a70de58-e859-4f1f-98c5-d90b2e489bf4" width="200" alt="Image 1">
+    </td>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/99769df0-a91c-482a-9069-e8e48de2ed7b" width="200" alt="Image 2">
+    </td>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/1cdf76a2-2cd4-4ab4-87da-ddb384a89671" width="200" alt="Image 3">
+    </td>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/d919b945-ff84-4978-a2cd-5597274a4d0f" width="200" alt="Image 4">
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/8df9e7b1-aae1-453e-8a27-f549910567e0" width="200" alt="Image 5">
+    </td>
+  </tr>
+</table>
 
 <table>
 <tr>
