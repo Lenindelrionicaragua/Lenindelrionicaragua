@@ -47,6 +47,12 @@ Vue.js
     I was responsible for leading the team to create the base repository, overseeing the rule sets of the repository, managing deployments, and deploying the online version.
   </p>
 
+ <div align="center">
+  <h3 align="center">Donna Vino Web Corporate</h3>
+  <p align="center">
+    I was responsible for leading the team to create the base repository, overseeing the rule sets of the repository, managing deployments, and deploying the online version.
+  </p>
+
   <table>
     <tr>
       <td width="25%" align="center">
@@ -64,16 +70,15 @@ Vue.js
         <img src="https://github.com/user-attachments/assets/d919b945-ff84-4978-a2cd-5597274a4d0f" width="200" alt="Image 4">
       </td>
     </tr>
+    <tr>
+      <td colspan="4" align="center">
+        <a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </td>
+    </tr>
   </table>
-
-  <!-- Adding the CODE badge -->
-  <p align="center">
-    <a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank">
-      <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-    </a>
-  </p>
 </div>
-
 
 <table>
 <tr>
