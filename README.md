@@ -45,9 +45,8 @@ Vue.js
   <tr>
     <td colspan="4" align="center">
       <h3>Donna Vino Web Corporate</h3>
-      <p>I was responsible for leading the team to create the base repository, overseeing the rule sets of the repository, managing deployments, and deploying the online version.
-	www.donnavino.dk
-</p>
+      <p>I was responsible for leading the team to create the base repository, overseeing the rule sets of the repository, managing deployments, and deploying the online version.</p>
+	<a>www.donnavino.dk</a>
     </td>
   </tr>
   <tr>
