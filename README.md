@@ -65,8 +65,6 @@ Vue.js
     <td width="25%" align="center">
       <img src="https://github.com/user-attachments/assets/d919b945-ff84-4978-a2cd-5597274a4d0f" width="200" alt="Image 4">
     </td>
-  </tr>
-  <tr>
     <td colspan="4" align="center">
       <a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank">
         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
