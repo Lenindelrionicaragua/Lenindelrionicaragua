@@ -41,44 +41,37 @@ Vue.js
 
 ## Projects
 
-<div align="center">
-  <h3 align="center">Donna Vino Web Corporate</h3>
-  <p align="center">
-    I was responsible for leading the team to create the base repository, overseeing the rule sets of the repository, managing deployments, and deploying the online version.
-  </p>
-
- <div align="center">
-  <h3 align="center">Donna Vino Web Corporate</h3>
-  <p align="center">
-    I was responsible for leading the team to create the base repository, overseeing the rule sets of the repository, managing deployments, and deploying the online version.
-  </p>
-
-  <table>
-    <tr>
-      <td width="25%" align="center">
-        <img src="https://github.com/user-attachments/assets/8df9e7b1-aae1-453e-8a27-f549910567e0" width="200" alt="Image 5">
-      </td>
-      <td width="25%" align="center">
-        <a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank">
-          <img src="https://github.com/user-attachments/assets/6a70de58-e859-4f1f-98c5-d90b2e489bf4" width="200" alt="Image 1">
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <img src="https://github.com/user-attachments/assets/1cdf76a2-2cd4-4ab4-87da-ddb384a89671" width="200" alt="Image 3">
-      </td>
-      <td width="25%" align="center">
-        <img src="https://github.com/user-attachments/assets/d919b945-ff84-4978-a2cd-5597274a4d0f" width="200" alt="Image 4">
-      </td>
-    </tr>
-    <tr>
-      <td colspan="4" align="center">
-        <a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td colspan="4" align="center">
+      <h3>Donna Vino Web Corporate</h3>
+      <p>I was responsible for leading the team to create the base repository, overseeing the rule sets of the repository, managing deployments, and deploying the online version.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/8df9e7b1-aae1-453e-8a27-f549910567e0" width="200" alt="Image 5">
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank">
+        <img src="https://github.com/user-attachments/assets/6a70de58-e859-4f1f-98c5-d90b2e489bf4" width="200" alt="Image 1">
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/1cdf76a2-2cd4-4ab4-87da-ddb384a89671" width="200" alt="Image 3">
+    </td>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/d919b945-ff84-4978-a2cd-5597274a4d0f" width="200" alt="Image 4">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center">
+      <a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <table>
 <tr>
