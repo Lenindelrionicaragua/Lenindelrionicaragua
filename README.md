@@ -49,7 +49,7 @@ Vue.js
 
   <table>
     <tr>
-	     <td width="25%" align="center">
+      <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/d919b945-ff84-4978-a2cd-5597274a4d0f" width="200" alt="Image 4">
       </td>
       <td width="25%" align="center">
@@ -57,11 +57,9 @@ Vue.js
           <img src="https://github.com/user-attachments/assets/6a70de58-e859-4f1f-98c5-d90b2e489bf4" width="200" alt="Image 1">
         </a>
       </td>
-     
       <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/1cdf76a2-2cd4-4ab4-87da-ddb384a89671" width="200" alt="Image 3">
       </td>
-     
     </tr>
     <tr>
       <td width="25%" align="center">
@@ -70,7 +68,6 @@ Vue.js
     </tr>
   </table>
 </div>
-
 
 <table>
 <tr>
