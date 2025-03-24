@@ -50,7 +50,7 @@ Vue.js
   <table>
     <tr>
       <td width="25%" align="center">
-        <img src="https://github.com/user-attachments/assets/d919b945-ff84-4978-a2cd-5597274a4d0f" width="200" alt="Image 4">
+        <img src="https://github.com/user-attachments/assets/8df9e7b1-aae1-453e-8a27-f549910567e0" width="200" alt="Image 5">
       </td>
       <td width="25%" align="center">
         <a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank">
@@ -60,10 +60,8 @@ Vue.js
       <td width="25%" align="center">
         <img src="https://github.com/user-attachments/assets/1cdf76a2-2cd4-4ab4-87da-ddb384a89671" width="200" alt="Image 3">
       </td>
-    </tr>
-    <tr>
       <td width="25%" align="center">
-        <img src="https://github.com/user-attachments/assets/8df9e7b1-aae1-453e-8a27-f549910567e0" width="200" alt="Image 5">
+        <img src="https://github.com/user-attachments/assets/d919b945-ff84-4978-a2cd-5597274a4d0f" width="200" alt="Image 4">
       </td>
     </tr>
   </table>
