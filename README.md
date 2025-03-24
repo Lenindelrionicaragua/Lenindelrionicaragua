@@ -52,7 +52,7 @@ Vue.js
   </tr>
   <tr>
     <td width="25%" align="center">
-      <img src="https://github.com/user-attachments/assets/8df9e7b1-aae1-453e-8a27-f549910567e0" width="200" alt="Image 5">
+      <img src="https://github.com/user-attachments/assets/a16cfcc0-2994-415a-a38f-f3bcfe5ea63b" width="200" alt="Image 5">
     </td>
     <td width="25%" align="center">
       <a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank">
