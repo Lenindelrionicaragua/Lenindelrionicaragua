@@ -65,7 +65,15 @@ Vue.js
       </td>
     </tr>
   </table>
+
+  <!-- Adding the CODE badge -->
+  <p align="center">
+    <a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank">
+      <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+    </a>
+  </p>
 </div>
+
 
 <table>
 <tr>
