@@ -44,7 +44,13 @@ Vue.js
 <table>
   <tr>
     <td width="25%" align="center">
-      <img src="https://github.com/user-attachments/assets/6a70de58-e859-4f1f-98c5-d90b2e489bf4" width="200" alt="Image 1">
+      <h3>Donna Vino Web Corporate</h3>
+      <p>
+        I was responsible for leading the team to create the base repository, overseeing the rule sets of the repository, managing deployments, and deploying the online version.
+      </p>
+      <a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank">
+        <img src="https://github.com/user-attachments/assets/6a70de58-e859-4f1f-98c5-d90b2e489bf4" width="200" alt="Image 1">
+      </a>
     </td>
     <td width="25%" align="center">
       <img src="https://github.com/user-attachments/assets/99769df0-a91c-482a-9069-e8e48de2ed7b" width="200" alt="Image 2">
