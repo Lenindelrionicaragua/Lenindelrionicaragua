@@ -41,15 +41,19 @@ Vue.js
 
 ## Projects
 
+<h3 align="center">Donna Vino Web Corporate</h3>
+<p align="center">
+  <strong>Donna Vino.dk</strong> is the corporate website for an e-commerce platform focused on wine sales and tastings.  
+  In this project, I was the <strong>Lead Developer</strong>, responsible for both the <strong>front-end</strong> and <strong>back-end</strong>.  
+  I worked closely with the graphic design and product design teams to ensure a seamless integration and user experience.  
+</p>
+<p align="center">
+  🌍 <a href="https://www.donnavino.dk" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Site-Donna_Vino-green?style=for-the-badge&logo=google-chrome">
+  </a>
+</p>
+
 <table align="center">
-  <tr>
-    <td colspan="4" align="center">
-      <h3>Donna Vino Web Corporate</h3>
-	     <p>Donna Vino.dk is the corporate website for an e-commerce platform focused on wine sales and tastings. In this project, I was the Lead Developer, responsible for creating both the front-end and back-end of the project. I closely collaborated with the design team for graphic design and product design to ensure seamless integration and user experience.</p>
-<br>
- www.donnavino.dk
-    </td>
-  </tr>
   <tr>
     <td width="25%" align="center">
       <img src="https://github.com/user-attachments/assets/a16cfcc0-2994-415a-a38f-f3bcfe5ea63b" width="200" alt="Image 5">
@@ -66,13 +70,15 @@ Vue.js
       <img src="https://github.com/user-attachments/assets/d919b945-ff84-4978-a2cd-5597274a4d0f" width="200" alt="Image 4">
     </td>
   </tr>
-     <td colspan="4" align="center">
+  <tr>
+    <td colspan="4" align="center">
       <a href="https://github.com/Lenindelrionicaragua/donna-vino-corporate-website" target="_blank">
         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </td>
-
+  </tr>
 </table>
+
 
 <table>
 <tr>
